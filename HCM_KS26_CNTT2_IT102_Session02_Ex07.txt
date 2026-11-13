@@ -1,0 +1,17 @@
+﻿Phần 1: Thiết kế 6 khối CREATE
+Thành phần
+	Nội dung
+	C – Character
+	Trưởng nhóm CSKH TechShop, phụ trách xử lý khiếu nại và chăm sóc khách hàng.
+	R – Request
+	Viết email xin lỗi khách vì đơn linh kiện PC giao chậm 4–6 ngày; nêu nguyên nhân và kế hoạch khắc phục.
+	E – Examples
+	“TechShop rất xin lỗi vì sự chậm trễ này đã ảnh hưởng đến kế hoạch của quý khách.”
+	A – Adjustment
+	Giọng chân thành, chuyên nghiệp; không đổ lỗi cho đơn vị vận chuyển, không hứa khi chưa xác nhận.
+	T – Type of Output
+	Email gồm tiêu đề, lời chào, 3 đoạn thân bài ngắn, lời cam kết và thông tin liên hệ.
+	E – Extras
+	Voucher giảm 15% cho đơn tiếp theo; có ngày giao mới đã xác nhận và hotline VIP (dùng chỗ trống nếu chưa có).
+	Phần 2: Master Prompt hoàn chỉnh
+Bạn là trưởng nhóm chăm sóc khách hàng TechShop. Hãy viết email xin lỗi khách vì đơn hàng linh kiện PC trong đợt Black Friday bị giao trễ 4–6 ngày do hệ thống phân loại tại kho quá tải, ảnh hưởng đến 3.000 đơn hàng.Email cần có giọng văn chân thành, lịch sự, thể hiện sự đồng cảm với khách. Ví dụ: "TechShop rất tiếc vì sự chậm trễ này đã làm ảnh hưởng đến kế hoạch của quý khách."Trình bày email gồm tiêu đề, lời chào, 3 đoạn ngắn và lời kết. Nội dung phải nhận trách nhiệm, giải thích nguyên nhân, thông báo lịch giao mới và tặng voucher giảm giá 15% cho đơn hàng tiếp theo.Không đổ lỗi cho đơn vị vận chuyển hoặc hứa hẹn khi chưa có xác nhận. Sử dụng các thông tin [TÊN KHÁCH], [MÃ ĐƠN], [NGÀY GIAO MỚI], [MÃ VOUCHER], [HOTLINE VIP]. Nếu thiếu thông tin thì giữ nguyên chỗ trống để nhân viên bổ sung trước khi gửi.
